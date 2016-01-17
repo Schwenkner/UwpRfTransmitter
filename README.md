@@ -1,5 +1,5 @@
 # UwpRfTransmitter
-Controls Rf transmitters on Windows 10 IoT 
+Controls Rf-433 switches on Windows 10 IoT 
 
 This is a library for controlling RF-433 switches with Windows 10 IoT.
 
